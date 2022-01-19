@@ -1,7 +1,7 @@
 # hello-world
-keeping with tradition
+Traditional Beginning
 
 I'm an info nerd,
 coralling the word.
 Keep up with the herd,
-Forever absurd.
+forever absurd.
